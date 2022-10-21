@@ -1,0 +1,21 @@
+{
+  "General": {},
+  "Sound": {
+    "MasterVolume": 0.2032463
+  },
+  "Interface": {
+    "Language": "english"
+  },
+  "GameClient": {
+    "CompletedTutorials": 7551,
+    "HasSeenCinematic": true,
+    "HasCompletedFirstStartup": true
+  },
+  "GraphicSettings": {
+    "Resolution": {
+      "x": 1920,
+      "y": 1080
+    },
+    "DynamicResolutionQuality": 0.77
+  }
+}
